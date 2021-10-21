@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- Software Engineer @ Butterfly Network
-- Tech interests include scalability 📈, infrastructure 🏗️ , and working with data 📊
+Here's a bit about me: 
+
+- Interested in scalability 📈, infrastructure 🏗️ , and working with data 📊
 - 🍎 Located in NYC 
 - ⚽ Soccer Fanatic
 - 🎓 Wesleyan University
