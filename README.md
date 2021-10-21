@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Software Engineer @ Butterfly Network
+- Tech interests include scalability 📈, infrastructure 🏗️ , and working with data 📊
+- 🍎 Located in NYC 
+- ⚽ Soccer Fanatic
+- 🎓 Wesleyan University
+
+
 <!--
 **murrayl9797/murrayl9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
