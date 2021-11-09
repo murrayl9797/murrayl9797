@@ -4,7 +4,7 @@ Here's a bit about me:
 
 - Interested in scalability 📈, infrastructure 🏗️ , and working with data 📊
 - 🍎 Located in NYC 
-- ⚽ Soccer Fanatic
+- ⚽ Soccer Player/Fan
 - 🎓 Wesleyan University
 
 
