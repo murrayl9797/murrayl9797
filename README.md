@@ -4,8 +4,7 @@ Here's a bit about me:
 
 - Interested in scalability 📈, infrastructure 🏗️ , and working with data 📊
 - 🇨🇭 Based out of Zürich
-- ⚽ Soccer Player/Fan
-- 🎓 Wesleyan University
+- While I'm not coding: ⚽ Football + ⛰️ Nature + 🧘 Yoga
 
 
 <!--
