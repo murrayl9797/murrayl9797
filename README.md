@@ -2,9 +2,9 @@
 
 Here's a bit about me: 
 
-- Interested in scalability 📈, infrastructure 🏗️ , and working with data 📊
+- Interested in scalability 📈 , infrastructure 🏗️ , and working with data 📊
+- ⚽ Football + ⛰️ Nature + 🧘 Yoga
 - 🇨🇭 Based out of Zürich
-- While I'm not coding: ⚽ Football + ⛰️ Nature + 🧘 Yoga
 
 
 <!--
