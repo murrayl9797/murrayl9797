@@ -3,7 +3,7 @@
 Here's a bit about me: 
 
 - Interested in scalability 📈, infrastructure 🏗️ , and working with data 📊
-- 🍎 Located in NYC 
+- 🇨🇭 Based out of Zürich, Switzerland
 - ⚽ Soccer Player/Fan
 - 🎓 Wesleyan University
 
