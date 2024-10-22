@@ -2,8 +2,8 @@
 
 Here's a bit about me: 
 
-- A backend-leaning developer; most experience in:
-    - Python, Javascript, Networking, AWS, Docker
+- Backend-leaning developer
+- Most proficient in Python + Javascript on AWS
 - Interested in music 🎵, sustainability ⛰️, and yoga 🧘
 - 🇨🇭 🇳🇱 🇩🇰 Based in ... TBD
 
