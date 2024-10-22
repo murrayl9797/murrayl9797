@@ -2,7 +2,7 @@
 
 Here's a bit about me: 
 
-- Interested in scalability 📈 , infrastructure 🏗️ , and working with data 📊
+- Interested in scalable and sustainable sysytems
 - ⚽ Football + ⛰️ Nature + 🧘 Yoga
 - 🇨🇭 🇳🇱 🇩🇰 Based in ... TBD
 
