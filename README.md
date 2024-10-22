@@ -2,8 +2,9 @@
 
 Here's a bit about me: 
 
-- Interested in scalable and sustainable sysytems
-- ⚽ Football + ⛰️ Nature + 🧘 Yoga
+- A backend-leaning developer; most experience in:
+    - Python, Javascript, Networking, AWS, Docker
+- Interested in music 🎵, sustainability ⛰️, and yoga 🧘
 - 🇨🇭 🇳🇱 🇩🇰 Based in ... TBD
 
 
