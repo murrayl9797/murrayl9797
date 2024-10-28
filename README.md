@@ -3,7 +3,7 @@
 Here's a bit about me: 
 
 - Backend-leaning developer
-- Most proficient in Python + Javascript on AWS
+- Most experienced in Python + Javascript on AWS
 - Interested in music 🎵, sustainability ⛰️, and yoga 🧘
 - 🇨🇭 🇳🇱 🇩🇰 Based in ... TBD
 
